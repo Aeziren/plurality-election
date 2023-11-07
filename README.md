@@ -1,5 +1,5 @@
 # plurality-election
-Implementation of a plurality election.
+Implementation of a [plurality election](https://en.wikipedia.org/wiki/Plurality_voting).
 
 ## Examples
 ![image](https://github.com/Aeziren/plurality-election/assets/123553708/90eb4b6e-986d-4446-a5f0-f11191c83cd6)
